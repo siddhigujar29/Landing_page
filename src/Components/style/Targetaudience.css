@@ -1,0 +1,31 @@
+ .th3{
+    font-size: 55px;
+    font-family: 600;
+    margin-left: 10%;
+    margin-top: -15px;
+
+ }
+   .para2{
+    font-size: 40px;
+    margin-left: 10%;
+margin-top: -15px;
+ }
+   .targetImg{
+    position: relative;
+    max-width: 60px;
+    padding-left: 20px;
+    display: flex;
+    margin-left: 5px;
+    margin-left: 10%;
+    gap: 2rem;
+
+    
+     }
+      .p{
+        font-size: 30px;
+        /* margin-left: 15px; */
+        margin-left: 10%;
+        
+
+     }
+    

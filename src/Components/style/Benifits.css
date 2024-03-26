@@ -1,0 +1,30 @@
+
+.sec6 .text10{
+    font-size: 40px;
+    margin-left: 10%;
+}
+ .sec6 .text13{
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 10%;
+
+
+}
+ .sec6 .userImg{
+float: right; 
+flex: 1;
+
+/* margin-left: 10%; */
+padding-right: 29%;
+max-width: 10%;
+margin-top: -10%;
+}
+
+ .sec6 #ul2{
+    font-size: 20px;
+    margin-left: 10%;
+    margin-left: 10%;
+
+
+ }
